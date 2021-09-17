@@ -2,4 +2,9 @@ Hello
 
 Testing Git branches
 --------------------------------------
+<<<<<<< HEAD
 commit 8
+=======
+
+Edit
+>>>>>>> 023a4542bbb107fd294ebd983147a0f2320a4a44
